@@ -1,1 +1,1 @@
-# ChessAI
+# Stock Trading Bot
