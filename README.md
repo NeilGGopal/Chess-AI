@@ -1,1 +1,1 @@
-# Stock Trading Bot
+# Chess AI
