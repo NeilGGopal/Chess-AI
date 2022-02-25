@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/NeilGGopal/Chess-AI/issues"
   },
-  "homepage": "https://github.com/NeilGGopal/Chess-AI#readme"
+  "homepage": "https://github.com/NeilGGopal/Chess-AI#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "react": "^17.0.2"
+  }
 }
